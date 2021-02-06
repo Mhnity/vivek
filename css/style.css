@@ -186,6 +186,781 @@
 }
 
 /****************************************   start defult color ****************************/
+.add {
+  /***************** start darkmode colors *************************/
+  /***************** end darkmode colors *************************/
+  /***************** start light  colors *************************/
+  /***************** start darkmode colors *************************/
+  /***************** end darkmode colors *************************/
+  /***************** start light  colors *************************/
+  /*****************  You can add any color like this way ******/
+  /****************************************   start defult color ****************************/
+  /************************************************ start navbar  ****************************/
+  /************************************************ end navbar  ****************************/
+  /************************************************ start header  ****************************/
+  /************************************************ end header  ****************************/
+  /************************************************ start about me   ****************************/
+  /************************************************ end about me   ****************************/
+  /************************************************ start skills    ****************************/
+  /************************************************ end skills    ****************************/
+  /************************************************ start certifications ***************/
+  /************************************************ end  certifications  ***************/
+  /************************************************ start projcts  ***************/
+  /************************************************ end  projcts  ***************/
+  /************************************************ start  intersts  ***************/
+  /************************************************ end  intersts  ***************/
+  /************************************************ start  contact us   ***************/
+  /************************************************ end contact us   ***************/
+}
+
+.add [data-main="blue"] .chang_color, .add nav .list li [data-main="blue"] a:hover, .add .copyright p [data-main="blue"] a, .add [data-main="blue"] nav .list li a:hover, nav .list li .add [data-main="blue"] a:hover, .add [data-main="blue"] .copyright p a, .copyright p .add [data-main="blue"] a {
+  color: #468FC2 !important;
+}
+
+.add [data-main="blue"] .chang_backcolor, .add .skills ul .item .progres [data-main="blue"] .prog, .add .projects .head ul li [data-main="blue"] a:hover, .add footer .part_one [data-main="blue"] a, .add [data-main="blue"] .skills ul .item .progres .prog, .skills ul .item .progres .add [data-main="blue"] .prog, .add [data-main="blue"] .projects .head ul li a:hover, .projects .head ul li .add [data-main="blue"] a:hover, .add [data-main="blue"] footer .part_one a, footer .part_one .add [data-main="blue"] a, .add [data-main="blue"] .active_P_a {
+  background: #468FC2 !important;
+  color: #cac4c4 !important;
+}
+
+.add [data-main="blue"] .border, .add .about [data-main="blue"] .job, .add .projects .head ul li [data-main="blue"] a, .add [data-main="blue"] header .social ul li a, header .social ul li .add [data-main="blue"] a, .add [data-main="blue"] .about .job, .about .add [data-main="blue"] .job, .add [data-main="blue"] .projects .head ul li a, .projects .head ul li .add [data-main="blue"] a {
+  border: 1px solid #468FC2 !important;
+}
+
+.add [data-main="blue"] .border_top {
+  border-top: 9px solid #468FC2 !important;
+}
+
+.add [data-main="blue"] .border_left_for_experience {
+  border-left: 1px solid #468FC2;
+}
+
+.add [data-main="blue"] .box_shadow {
+  -webkit-box-shadow: 0 0 15px 2px #468FC2;
+          box-shadow: 0 0 15px 2px #468FC2;
+}
+
+.add [data-main="blue"] .portfolio_overlay {
+  background: #468fc2e6;
+}
+
+.add [data-main="green"] .chang_color, .add nav .list li [data-main="green"] a:hover, .add .copyright p [data-main="green"] a, .add [data-main="green"] nav .list li a:hover, nav .list li .add [data-main="green"] a:hover, .add [data-main="green"] .copyright p a, .copyright p .add [data-main="green"] a {
+  color: #6ABF7A !important;
+}
+
+.add [data-main="green"] .chang_backcolor, .add .skills ul .item .progres [data-main="green"] .prog, .add .projects .head ul li [data-main="green"] a:hover, .add footer .part_one [data-main="green"] a, .add [data-main="green"] .skills ul .item .progres .prog, .skills ul .item .progres .add [data-main="green"] .prog, .add [data-main="green"] .projects .head ul li a:hover, .projects .head ul li .add [data-main="green"] a:hover, .add [data-main="green"] footer .part_one a, footer .part_one .add [data-main="green"] a, .add [data-main="green"] .active_P_a {
+  background: #6ABF7A !important;
+  color: #cac4c4 !important;
+}
+
+.add [data-main="green"] .border, .add .about [data-main="green"] .job, .add .projects .head ul li [data-main="green"] a, .add [data-main="green"] header .social ul li a, header .social ul li .add [data-main="green"] a, .add [data-main="green"] .about .job, .about .add [data-main="green"] .job, .add [data-main="green"] .projects .head ul li a, .projects .head ul li .add [data-main="green"] a {
+  border: 1px solid #6ABF7A !important;
+}
+
+.add [data-main="green"] .border_top {
+  border-top: 9px solid #6ABF7A !important;
+}
+
+.add [data-main="green"] .border_left_for_experience {
+  border-left: 1px solid  #6ABF7A;
+}
+
+.add [data-main="green"] .box_shadow {
+  -webkit-box-shadow: 0 0 15px 2px #6ABF7A;
+          box-shadow: 0 0 15px 2px #6ABF7A;
+}
+
+.add [data-main="green"] .portfolio_overlay {
+  background: #6ABF7Ae6;
+}
+
+.add [data-main="yellow"] .chang_color, .add nav .list li [data-main="yellow"] a:hover, .add .copyright p [data-main="yellow"] a, .add [data-main="yellow"] nav .list li a:hover, nav .list li .add [data-main="yellow"] a:hover, .add [data-main="yellow"] .copyright p a, .copyright p .add [data-main="yellow"] a {
+  color: #FFC107 !important;
+}
+
+.add [data-main="yellow"] .chang_backcolor, .add .skills ul .item .progres [data-main="yellow"] .prog, .add .projects .head ul li [data-main="yellow"] a:hover, .add footer .part_one [data-main="yellow"] a, .add [data-main="yellow"] .skills ul .item .progres .prog, .skills ul .item .progres .add [data-main="yellow"] .prog, .add [data-main="yellow"] .projects .head ul li a:hover, .projects .head ul li .add [data-main="yellow"] a:hover, .add [data-main="yellow"] footer .part_one a, footer .part_one .add [data-main="yellow"] a, .add [data-main="yellow"] .active_P_a {
+  background: #FFC107 !important;
+  color: #cac4c4 !important;
+}
+
+.add [data-main="yellow"] .border, .add .about [data-main="yellow"] .job, .add .projects .head ul li [data-main="yellow"] a, .add [data-main="yellow"] header .social ul li a, header .social ul li .add [data-main="yellow"] a, .add [data-main="yellow"] .about .job, .about .add [data-main="yellow"] .job, .add [data-main="yellow"] .projects .head ul li a, .projects .head ul li .add [data-main="yellow"] a {
+  border: 1px solid #FFC107 !important;
+}
+
+.add [data-main="yellow"] .border_top {
+  border-top: 9px solid #FFC107 !important;
+}
+
+.add [data-main="yellow"] .border_left_for_experience {
+  border-left: 1px solid  #FFC107;
+}
+
+.add [data-main="yellow"] .box_shadow {
+  -webkit-box-shadow: 0 0 15px 2px #FFC107;
+          box-shadow: 0 0 15px 2px #FFC107;
+}
+
+.add [data-main="yellow"] .portfolio_overlay {
+  background: #FFC107e6;
+}
+
+.add [data-main="palev"] .chang_color, .add nav .list li [data-main="palev"] a:hover, .add .copyright p [data-main="palev"] a, .add [data-main="palev"] nav .list li a:hover, nav .list li .add [data-main="palev"] a:hover, .add [data-main="palev"] .copyright p a, .copyright p .add [data-main="palev"] a {
+  color: #E83E8C !important;
+}
+
+.add [data-main="palev"] .chang_backcolor, .add .skills ul .item .progres [data-main="palev"] .prog, .add .projects .head ul li [data-main="palev"] a:hover, .add footer .part_one [data-main="palev"] a, .add [data-main="palev"] .skills ul .item .progres .prog, .skills ul .item .progres .add [data-main="palev"] .prog, .add [data-main="palev"] .projects .head ul li a:hover, .projects .head ul li .add [data-main="palev"] a:hover, .add [data-main="palev"] footer .part_one a, footer .part_one .add [data-main="palev"] a, .add [data-main="palev"] .active_P_a {
+  background: #E83E8C !important;
+  color: #cac4c4 !important;
+}
+
+.add [data-main="palev"] .border, .add .about [data-main="palev"] .job, .add .projects .head ul li [data-main="palev"] a, .add [data-main="palev"] header .social ul li a, header .social ul li .add [data-main="palev"] a, .add [data-main="palev"] .about .job, .about .add [data-main="palev"] .job, .add [data-main="palev"] .projects .head ul li a, .projects .head ul li .add [data-main="palev"] a {
+  border: 1px solid #E83E8C !important;
+}
+
+.add [data-main="palev"] .border_top {
+  border-top: 9px solid #E83E8C !important;
+}
+
+.add [data-main="palev"] .border_left_for_experience {
+  border-left: 1px solid  #E83E8C;
+}
+
+.add [data-main="palev"] .box_shadow {
+  -webkit-box-shadow: 0 0 15px 2px #E83E8C;
+          box-shadow: 0 0 15px 2px #E83E8C;
+}
+
+.add [data-main="palev"] .portfolio_overlay {
+  background: #E83E8Ce6;
+}
+
+.add [data-main="red"] .chang_color, .add nav .list li [data-main="red"] a:hover, .add .copyright p [data-main="red"] a, .add [data-main="red"] nav .list li a:hover, nav .list li .add [data-main="red"] a:hover, .add [data-main="red"] .copyright p a, .copyright p .add [data-main="red"] a {
+  color: #DC3545 !important;
+}
+
+.add [data-main="red"] .chang_backcolor, .add .skills ul .item .progres [data-main="red"] .prog, .add .projects .head ul li [data-main="red"] a:hover, .add footer .part_one [data-main="red"] a, .add [data-main="red"] .skills ul .item .progres .prog, .skills ul .item .progres .add [data-main="red"] .prog, .add [data-main="red"] .projects .head ul li a:hover, .projects .head ul li .add [data-main="red"] a:hover, .add [data-main="red"] footer .part_one a, footer .part_one .add [data-main="red"] a, .add [data-main="red"] .active_P_a {
+  background: #DC3545 !important;
+  color: #cac4c4 !important;
+}
+
+.add [data-main="red"] .border, .add .about [data-main="red"] .job, .add .projects .head ul li [data-main="red"] a, .add [data-main="red"] header .social ul li a, header .social ul li .add [data-main="red"] a, .add [data-main="red"] .about .job, .about .add [data-main="red"] .job, .add [data-main="red"] .projects .head ul li a, .projects .head ul li .add [data-main="red"] a {
+  border: 1px solid #DC3545 !important;
+}
+
+.add [data-main="red"] .border_top {
+  border-top: 9px solid #DC3545 !important;
+}
+
+.add [data-main="red"] .border_left_for_experience {
+  border-left: 1px solid  #DC3545;
+}
+
+.add [data-main="red"] .box_shadow {
+  -webkit-box-shadow: 0 0 15px 2px #DC3545;
+          box-shadow: 0 0 15px 2px #DC3545;
+}
+
+.add [data-main="red"] .portfolio_overlay {
+  background: #DC3545e6;
+}
+
+.add [data-main="purple"] .chang_color, .add nav .list li [data-main="purple"] a:hover, .add .copyright p [data-main="purple"] a, .add [data-main="purple"] nav .list li a:hover, nav .list li .add [data-main="purple"] a:hover, .add [data-main="purple"] .copyright p a, .copyright p .add [data-main="purple"] a {
+  color: #6F42C1 !important;
+}
+
+.add [data-main="purple"] .chang_backcolor, .add .skills ul .item .progres [data-main="purple"] .prog, .add .projects .head ul li [data-main="purple"] a:hover, .add footer .part_one [data-main="purple"] a, .add [data-main="purple"] .skills ul .item .progres .prog, .skills ul .item .progres .add [data-main="purple"] .prog, .add [data-main="purple"] .projects .head ul li a:hover, .projects .head ul li .add [data-main="purple"] a:hover, .add [data-main="purple"] footer .part_one a, footer .part_one .add [data-main="purple"] a, .add [data-main="purple"] .active_P_a {
+  background: #6F42C1 !important;
+  color: #cac4c4 !important;
+}
+
+.add [data-main="purple"] .border, .add .about [data-main="purple"] .job, .add .projects .head ul li [data-main="purple"] a, .add [data-main="purple"] header .social ul li a, header .social ul li .add [data-main="purple"] a, .add [data-main="purple"] .about .job, .about .add [data-main="purple"] .job, .add [data-main="purple"] .projects .head ul li a, .projects .head ul li .add [data-main="purple"] a {
+  border: 1px solid #6F42C1 !important;
+}
+
+.add [data-main="purple"] .border_top {
+  border-top: 9px solid #6F42C1 !important;
+}
+
+.add [data-main="purple"] .border_left_for_experience {
+  border-left: 1px solid  #6F42C1;
+}
+
+.add [data-main="purple"] .box_shadow {
+  -webkit-box-shadow: 0 0 15px 2px #6F42C1;
+          box-shadow: 0 0 15px 2px #6F42C1;
+}
+
+.add [data-main="purple"] .portfolio_overlay {
+  background: #6F42C1e6;
+}
+
+.add body {
+  overflow-x: hidden;
+}
+
+.add .logo a {
+  color: #fff;
+}
+
+.add .logo span:first-of-type {
+  color: #FFC107;
+}
+
+.add nav {
+  height: 10vh;
+  background: transparent;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+  line-height: 10vh;
+}
+
+.add nav .list {
+  text-align: right;
+}
+
+@media (max-width: 767px) {
+  .add nav .list {
+    text-align: center;
+    background: #fff;
+    position: fixed;
+    width: 100%;
+    top: 10vh;
+    left: 0;
+    overflow: hidden;
+    display: none;
+  }
+}
+
+@media (min-width: 768px) {
+  .add nav .list {
+    display: block;
+  }
+}
+
+.add nav .list li {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+@media (max-width: 767px) {
+  .add nav .list li {
+    display: block;
+  }
+}
+
+.add nav .list li a {
+  color: #fff;
+  font-size: 17px;
+  font-weight: 400;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+.add nav .list li a:hover {
+  color: #FFC107;
+}
+
+@media (max-width: 767px) {
+  .add nav .list li a {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.add nav .bars {
+  position: absolute;
+  top: 4px;
+  right: 33px;
+  display: none;
+  font-size: 27px;
+}
+
+.add nav .bars i {
+  cursor: pointer;
+}
+
+@media (max-width: 767px) {
+  .add nav .bars {
+    display: block;
+  }
+}
+
+.add .black_background {
+  background: #1b191b;
+  -webkit-transition: all .5s linear;
+  transition: all .5s linear;
+}
+
+.add .active_a {
+  color: #FFC107 !important;
+}
+
+.add header .info {
+  color: #FFFFFF;
+}
+
+.add header .info .middel .hi {
+  color: #FFC107;
+}
+
+.add header .control {
+  background: #EEE;
+}
+
+.add header .control .setting i {
+  color: #f1f1f1;
+}
+
+.add header .overlay {
+  -webkit-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out;
+  background: rgba(0, 0, 0, 0);
+}
+
+.add .about {
+  background: #1B191B;
+  color: #fff;
+  padding: 60px 0;
+}
+
+.add .about .cont_img {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  overflow: hidden;
+  -webkit-box-shadow: 0 0 14px 0px #ffffff38;
+          box-shadow: 0 0 14px 0px #ffffff38;
+  padding: 25px;
+}
+
+.add .about .cont_img img {
+  width: 100%;
+  height: 100%;
+}
+
+.add .about .info {
+  text-align: center;
+  padding-top: 80px;
+}
+
+.add .about .info h1 {
+  text-transform: capitalize;
+}
+
+.add .about .info h1 span {
+  color: #FFC107;
+}
+
+.add .about .professional {
+  margin-top: 40px;
+  text-transform: capitalize;
+}
+
+.add .about .job {
+  text-align: center;
+  margin: 40px 0 0 0;
+  padding: 15px 25px;
+  background: #999;
+  border-radius: 5px;
+  color: #f1f1f1;
+  font-weight: bold;
+  border: 1px solid #FFC107;
+}
+
+.add .skills {
+  padding: 80px 0;
+  background: #252425;
+}
+
+.add .skills h1 {
+  text-transform: uppercase;
+  color: #FFFF;
+}
+
+.add .skills .big_titel {
+  color: #f1f1f1;
+  text-transform: capitalize;
+  margin-left: 30px;
+}
+
+.add .skills ul {
+  margin: 0 30px;
+  margin-top: 50px;
+}
+
+.add .skills ul .item {
+  height: 50px;
+  display: block;
+  margin-top: 15px;
+}
+
+.add .skills ul .item h5 {
+  font-size: 13px;
+  text-transform: capitalize;
+  color: #cac4c4;
+}
+
+.add .skills ul .item .progres {
+  width: 100%;
+  height: 5px;
+  background: #555;
+  border-radius: 0;
+  display: block;
+  position: relative;
+}
+
+.add .skills ul .item .progres .prog {
+  height: 5px;
+  position: absolute;
+  background: #FFC107;
+}
+
+.add .skills ul .item .progres .alert {
+  width: 45px;
+  padding: 0;
+  text-align: center;
+  position: absolute;
+  top: -35px;
+  background: #cac4c4;
+  border-radius: 3px;
+  font-size: 9px;
+  font-weight: bold;
+  background: #252425;
+  border: 1px solid #cac4c4;
+  color: #cac4c4;
+}
+
+.add .skills ul .item .progres .alert::before {
+  content: '';
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 5px solid #cac4c4;
+  position: absolute;
+  bottom: -5px;
+  left: 7.5px;
+}
+
+.add .certifications {
+  padding: 100px 0;
+  background: #1B191B;
+  position: relative;
+}
+
+.add .certifications h1 {
+  text-transform: capitalize;
+  color: #f1f1f1;
+  margin-bottom: 10px;
+}
+
+.add .certifications #owl-demo .item {
+  background: none;
+  margin: 10px;
+  padding: 10px;
+  color: #888;
+  border-radius: 3px;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  height: 250px;
+}
+
+.add .certifications #owl-demo .item .cont_img {
+  position: relative;
+  overflow: hidden;
+  background: #fff;
+  width: 100%;
+  height: 100%;
+}
+
+.add .certifications #owl-demo .item .cont_img:hover .overlay {
+  opacity: 1;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.add .certifications #owl-demo .item .cont_img img {
+  width: 100%;
+  height: 100%;
+}
+
+.add .certifications #owl-demo .item .cont_img .overlay {
+  position: absolute;
+  text-decoration: none;
+  padding: 15px;
+  text-transform: capitalize;
+  width: 0;
+  height: 0;
+  top: 50%;
+  left: 50%;
+  background: rgba(0, 0, 0, 0.5);
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+  opacity: 0;
+}
+
+.add .certifications #owl-demo .item .cont_img .overlay h6 {
+  color: #fff;
+  margin-bottom: 0;
+}
+
+.add .certifications .customNavigation {
+  text-align: center;
+}
+
+.add .certifications .customNavigation a i {
+  cursor: pointer;
+  font-size: 25px;
+}
+
+.add .certifications .customNavigation .prev {
+  position: absolute;
+  top: 50%;
+  left: 50px;
+  color: #FFC107;
+}
+
+.add .certifications .customNavigation .next {
+  position: absolute;
+  top: 50%;
+  right: 50px;
+  color: #FFC107;
+}
+
+.add .certifications .customNavigation a {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.add .certifications .owl-pagination {
+  display: none;
+}
+
+.add .projects {
+  background: #252425;
+  padding: 100px 0;
+}
+
+.add .projects h1 {
+  color: #fff;
+  text-transform: capitalize;
+}
+
+.add .projects .head {
+  margin: 40px 0;
+}
+
+.add .projects .head ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.add .projects .head ul li {
+  margin: 0 10px;
+}
+
+.add .projects .head ul li a {
+  text-decoration: none;
+  text-transform: capitalize;
+  cursor: pointer;
+  padding: 8px 25px;
+  color: #fff;
+  font-size: 18px;
+  background: #1B191B;
+  border-radius: 10px;
+  border: 1px solid #FFC107;
+}
+
+@media (max-width: 767px) {
+  .add .projects .head ul li a {
+    padding: 8px;
+  }
+}
+
+.add .projects .head ul li a:hover {
+  background: #FFC107;
+  color: #fff;
+}
+
+.add .projects .body .cont_img {
+  width: 100%;
+  height: 350px;
+  margin: 15px 0;
+  position: relative;
+  cursor: pointer;
+}
+
+.add .projects .body .cont_img:hover .overlay {
+  opacity: 1;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.add .projects .body .cont_img img {
+  width: 100%;
+  height: 100%;
+}
+
+.add .projects .body .cont_img .overlay {
+  position: absolute;
+  text-decoration: none;
+  padding: 15px;
+  text-transform: capitalize;
+  width: 0;
+  height: 0;
+  top: 50%;
+  left: 50%;
+  background: rgba(0, 0, 0, 0.5);
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+  opacity: 0;
+}
+
+.add .projects .body .cont_img .overlay h3 {
+  color: #fff;
+  margin-bottom: 0;
+  font-size: 22px;
+}
+
+.add .intersts {
+  padding: 100px 0;
+  background: #1B191B;
+  color: #fff;
+}
+
+.add .intersts h1 {
+  text-transform: capitalize;
+}
+
+.add .intersts h3 {
+  margin-top: 50px;
+  color: #999;
+  font-size: 25px;
+}
+
+.add .intersts h3:first-letter {
+  text-transform: uppercase;
+}
+
+.add .intersts .cont_img {
+  width: 100%;
+  height: 260px;
+  position: relative;
+  overflow: hidden;
+  margin: 20px 0;
+}
+
+.add .intersts .cont_img:hover .overlay {
+  opacity: 1;
+}
+
+.add .intersts .cont_img:hover img {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+.add .intersts .cont_img img {
+  width: 100%;
+  height: 100%;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.add .intersts .cont_img .overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.4);
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+  opacity: 0;
+}
+
+.add footer {
+  padding: 50px 0;
+  background: #252425;
+  color: #FFF;
+}
+
+.add footer .part_one h1 {
+  text-transform: capitalize;
+}
+
+.add footer .part_one p {
+  font-size: 16px;
+}
+
+.add footer .part_one a {
+  text-decoration: none;
+  display: inline-block;
+  width: 170px;
+  padding: 10px 15px;
+  background: #FFC107;
+  color: #222;
+  font-weight: bold;
+  text-transform: capitalize;
+  border-radius: 10px;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.add footer .part_one a:hover {
+  opacity: .8;
+  color: #999;
+}
+
+.add footer .part_two {
+  margin-top: 40px;
+}
+
+.add footer .part_two h2 {
+  text-transform: capitalize;
+  font-size: 17px;
+}
+
+.add .copyright {
+  padding: 20px 0 15px 0;
+  background: #1B191B;
+}
+
+.add .copyright p {
+  text-transform: capitalize;
+  color: #fff;
+}
+
+.add .copyright p a {
+  text-decoration: none;
+  color: #FFC107;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.add .copyright p a:hover {
+  opacity: .8;
+}
+
+.add .active_P_a {
+  background: #FFC107 !important;
+  color: #222 !important;
+}
+
 body {
   overflow-x: hidden;
 }
@@ -395,7 +1170,7 @@ header .control {
   width: 190px;
   height: 290px;
   padding: 15px;
-  background: #ffffffd1;
+  background: #222;
   right: -190px;
   top: 200px;
   z-index: 9999;
@@ -543,6 +1318,8 @@ header .overlay {
   bottom: 0;
   right: 0;
   background: rgba(0, 0, 0, 0.7);
+  -webkit-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out;
   z-index: 0;
 }
 
@@ -636,7 +1413,7 @@ header .overlay {
 .skills ul .item .progres {
   width: 100%;
   height: 5px;
-  background: #f1f1f19c;
+  background: #555;
   border-radius: 0;
   display: block;
   position: relative;
@@ -696,7 +1473,7 @@ header .overlay {
   text-align: center;
   cursor: pointer;
   width: 100%;
-  height: 250px;
+  height: 300px;
 }
 
 .certifications #owl-demo .item .cont_img {

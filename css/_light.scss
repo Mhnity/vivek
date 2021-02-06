@@ -2,28 +2,22 @@
 //import colors variabels from its file
 @import 'colors-variables';
 @import 'colors'; //import colors variabels 
-.add{
-    @import'light';//when i click add import the light mode style 
-}
 body{
     overflow-x: hidden;
 }
 
-/************************************************ start header  ****************************/
+
+/************************************************ start navbar  ****************************/
 .logo{
     a{
-        text-decoration:none;
         color:#fff;
-        font-size: 25px;
-        font-weight: bold;
     }
     span:first-of-type{
         color:$main_color;
-        margin-right: -5px;
     }
   
 }
-//start navbar 
+
 nav{
     height: 10vh;
     background: transparent;
@@ -95,216 +89,35 @@ nav{
 .active_a{
     color:$main_color !important;
 }
-///////////end navbar 
+/************************************************ end navbar  ****************************/
+ 
+
+
+
+/************************************************ start header  ****************************/
 header{
-    background:url('../imgs/header/2.jfif');
-    height:100vh;
-    background-size: cover;
-    position: relative;
     .info{
-        position: absolute;
-        z-index: 99;
-        padding-top:200px;
         color:#FFFFFF;
        .middel{
            .hi{
-               text-align: left;
-               font-weight: bold;
                color:$main_color;
-           }
-           .iam{
-               font-weight: bold;
-               font-size: 40px;
-           }
-           .description{
-               font-weight: bold;
-               display: flex;
-               ul{
-                   position: relative;
-                   margin-left: 10px;
-                   li{
-                       position: absolute;
-                       display: none;
-                       color:$main_color;
-                   }
-                   .active{
-                    display: inline;
-                }
-               }
            }
        }
     }
     //start social
-    .social{
-        position: absolute;
-        top:70%;
-        left:50%;
-        z-index: 99;
-        ul{
-            width:300px;
-            display: flex;
-            margin-left: -150px;
-            
-            li{
-                margin:10px;
-                a{
-                    text-decoration: none;
-                    background:#FFF;
-                    @extend.border;
-                    padding:8px;
-                    border-radius: 50%;
-                    width:50px;
-                    height:50px;
-                    display: inline-block;
-                    text-align: center;
-                    transition: all .5s ease-in-out;
-                    &:hover{
-                        background: $main_color;
-                        cursor: pointer;
-                        i{
-                            color:#f1f1f1 !important;
-                        }
-                    }
-                    i{
-                        color:$main_color;
-                        font-size: 22px;
-                        margin-top: 6px;
-                    }
-                }
-            }
-        }
-    }
+ 
     //start control box
     .control{
-        font-family: 'Courier New', Courier, monospace;
-        position:fixed;
-        width:190px;
-        height:290px;
-        padding:15px;
-        background:#222;
-        right:-190px;
-        top:200px;
-        z-index: 9999;
-        border-top-left-radius: 10px;
-        border-bottom-left-radius: 10px;
+        background:#EEE;
         .setting{
-            position: absolute;
-            padding-top: 3px;
-            left: -35px;
-            top:0;
-            height: 35px;
-            width: 35px;
-            line-height: 35px;
-            font-size: 19px;
-            text-align: center;
-            cursor: pointer;
-          
-            @keyframes rotat{
-                0%{
-                transform: rotate(0);
-                }
-                100%{
-                    transform: rotate(360deg);
-                }
-            }
             i{
-                color:#fff;
-                font-size: 25px;
-                -webkit-animation: rotat 2.2s linear infinite;
-                -moz-animation: rotat 2.2s linear infinite;
-                -o-animation: rotat 2.2s linear infinite;
-                -ms-animation: rotat 2.2s linear infinite;
-                animation: rotat 2.2s linear infinite;
+                color:#f1f1f1;
             }
-        }
-        h4{
-            font-size: 13px;
-            font-weight:bold;
-            text-transform:uppercase;
-            margin-top: 10px;
-            margin-bottom:10px;
-        }
-        span{
-            width: 30px;
-            height:30px;
-            text-align: center;
-            line-height: 30px;
-            display: inline-block;
-            overflow: hidden;
-            margin:15px 0;
-            cursor: pointer;
-            &:first-of-type{
-                background: $white !important;
-                border:2px solid $OfWhite;
-                color:#333;
-                width:33px;
-                height: 33px;
-                margin-top: 5px;
-            }
-            &:last-of-type{
-                background: #333 !important;
-                border:2px solid $OfWhite;
-                color:$white;
-                width:33px;
-                height: 33px;
-                margin-top: 5px;
-                margin-left:5px;
-            }
-        }
-        h3{
-            font-size: 13px;
-            font-weight:bold;
-            text-transform:uppercase;
-        }
-        .list_color{
-            margin-bottom:0;
-            li{
-                display: inline-block;
-                width:30px;
-                height:30px;
-                margin-top: 10px;
-                margin-right:5px;
-                cursor: pointer;
-                &:first-child{
-                    background:#468FC2;
-                }
-                &:nth-child(2){
-                    background:#6ABF7A;
-                }
-                &:nth-child(3){
-                    background:#FFC107;
-                }
-                &:nth-child(4){
-                    background:#E83E8C;
-                }
-                &:nth-child(5){
-                    background:#DC3545;
-                }
-                &:nth-child(6){
-                    background:#6F42C1;
-                }
-            }
-        }
-        .reset{
-            border:1px solid #222;
-            outline:none;
-            margin: 5px;
-            border-radius: 5px;
-            padding: 2px 31px;
-
         }
     }
     .overlay{
-        position: absolute;
-        width:100%;
-        height:100%;
-        top:0;
-        left:0;
-        bottom:0;
-        right:0;
-        background:rgba( 0,0,0,.7);
         transition: all .5s ease-in-out;
-        z-index:0;
+        background:rgba( 0,0,0,0);
     }
 }
 /************************************************ end header  ****************************/
@@ -453,7 +266,7 @@ header{
         text-align: center;
         cursor: pointer;
         width:100%;
-        height: 300px;
+        height: 250px;
         .cont_img{
             position: relative;
             overflow: hidden;

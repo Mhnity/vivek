@@ -80,8 +80,8 @@ $('.moon').on('click',function(){
 //start certifications slid
 var owl = $("#owl-demo");
 owl.owlCarousel({
-    items : 4, //5 items min-width 1000px and browser width
-    itemsDesktop : [1000,4], //4 items between  901px and 1000px
+    items : 3, //5 items min-width 1000px and browser width
+    itemsDesktop : [1000,3], //4 items between  901px and 1000px
     itemsDesktopSmall : [900,2], // betweem 601px and 900px  
     itemsTablet: [600,2], //2 items between 0 and  600
     itemsMobile : false // itemsMobile disabled - inherit from itemsTablet option
