@@ -80,10 +80,10 @@ $('.moon').on('click',function(){
 //start certifications slid
 var owl = $("#owl-demo");
 owl.owlCarousel({
-    items : 3, //5 items min-width 1000px and browser width
-    itemsDesktop : [1000,3], //4 items between  901px and 1000px
-    itemsDesktopSmall : [900,2], // betweem 601px and 900px  
-    itemsTablet: [600,2], //2 items between 0 and  600
+    items : 2, //5 items min-width 1000px and browser width
+    itemsDesktop : [1000,2], //4 items between  901px and 1000px
+    itemsDesktopSmall : [900,1], // betweem 601px and 900px  
+    itemsTablet: [600,1], //2 items between 0 and  600
     itemsMobile : false // itemsMobile disabled - inherit from itemsTablet option
 });
 ///owl.trigger('owl.play',1000);// auto work
